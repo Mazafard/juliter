@@ -1,0 +1,11 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/mxk/go-sqlite",
+			"repository": "https://github.com/mxk/go-sqlite",
+			"revision": "167da9432e1f4602e95ea67b67051cfa34412e3f",
+			"branch": "master"
+		}
+	]
+}
