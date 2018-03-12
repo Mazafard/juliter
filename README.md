@@ -4,8 +4,8 @@ Check tweet of Users and calculate words they used.
 
 # Requirement
 
-1- [golang +1.8](https://getgb.io/) 
-2- [gb as A project based build tool for the Go programming language.](https://golang.org/) 
+- [golang +1.8](https://getgb.io/)
+- [gb as A project based build tool for the Go programming language.](https://golang.org/) 
 
 
 # installation
